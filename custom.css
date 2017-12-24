@@ -1,146 +1,35 @@
-body {
-    background: #262626 !important;
-}
-
-#logo {
-background-size:100% 100%!important
-}
-#slider .slide-caption {
-    background: rgba(30, 30, 30, 0.9);
-}
-footer {
-padding:10px;
-background: #1E1E1E !important;
-}
-
-.movies-list .ml-item, .movies-list .ml-item .mli-info {
-    border-radius: 2px !important;
-}
-
-#menu .sub-container {
-    border-top: 0px !important;
-}
-
-.social-home {display:none}
-
-.movies-list .ml-item .mli-info {
-    background: url("https://imdbflix.com/wp-content/themes/PsyPlay/images/mask-title.png") top repeat-x !important;
-}
-
-.movies-list-wrap .ml-title .nav-tabs li a {
-    color: #c9c9c9;
-}
-
-.movies-list-wrap .ml-title .nav-tabs li.active a {
-    border-radius: 3px;
-    color: #2f2f2f;
-}
-
-.movies-list-wrap .ml-title span {
-    background: #363636 !important
-}
-
-.footer-menu li {
-float:left;
-list-style-type:none;
-padding:6px 6px 6px 0;
-font-size:13px
-}
-
-.footer-menu li a {
-color:#a2a2a2
-}
-
-.footer-menu {
-display:block;
-width:100%;
-height:30px;
-padding:0
-}
-
-.footer-menu li a:hover {
-color:#fff
-}
-
-#mv-info .mvi-content .mvic-desc .desc {
-color:#323232
-}
-
-#mv-info .mvi-content .imdb-r {
-font-size:13px
-}
-
-#commentfb {
-display:none
-}
-
-#footer p {
-color:#aaa;
-font-size:12px
-}
-
-#mv-info .mvi-content h1 {
-font-size:20px;
-line-height:28px;
-margin:0;
-margin-bottom:10px;
-display:initial;
-margin-right:10px
-}
-
-.movies-list-wrap .ml-title .nav-tabs li a:hover {
-    color: #2f2f2f;
-}
-
-.qtip-bootstrap {
-    background: #323232 !important;
-    color: #333 !important;
-    xborder: 1px solid #3b3b3b;
-}
-
-.qtip .qtip-title {
-	background: none;
-    color: #0397d6 !important;
-}
-
-.jtip-quality {
-    border-radius:2px;
-    background: #505050;
-}
-
-.jtip-top {
-    background: #414141 !important;
-    color: #272727 !important;
-}
-
-#hidden_tip p {
-    color: #303030;
-}
-
-.block {
-    color: #519dff;
-}
-
-#bread .breadcrumb a {
-    color: #fff;
-}
-
-.player_nav {
-    background: #2a2a2a;
-}
-
-.player_nav ul.idTabs li {
-    padding: 12px;
-}
-
-.player_nav ul.idTabs li {
-		border-bottom:0px;
-}
-
-.player_nav .les-title {
-    color: #aaa;
-}
-
-#slider .slide-caption {
-    background: rgba(30, 30, 30, 0.9)!important;
-}
+body{background:#262626!important}
+#logo{background-size:100% 100%!important}
+#slider .slide-caption{background:rgba(30,30,30,0.9)}
+footer{padding:10px;background:#1E1E1E!important}
+.movies-list .ml-item,.movies-list .ml-item .mli-info{border-radius:2px!important}
+#menu .sub-container{border-top:0!important}
+.social-home{display:none}
+.movies-list .ml-item .mli-info{background:url(https://imdbflix.com/wp-content/themes/PsyPlay/images/mask-title.png) top repeat-x!important}
+.movies-list-wrap .ml-title .nav-tabs li a{color:#c9c9c9}
+.movies-list-wrap .ml-title .nav-tabs li.active a{border-radius:3px;color:#2f2f2f}
+.movies-list-wrap .ml-title span{background:#363636!important}
+.footer-menu li{float:left;list-style-type:none;padding:6px 6px 6px 0;font-size:13px}
+.footer-menu li a{color:#a2a2a2}
+.footer-menu{display:block;width:100%;height:30px;padding:0}
+.footer-menu li a:hover{color:#fff}
+#mv-info .mvi-content .mvic-desc .desc{color:#323232}
+#mv-info .mvi-content .imdb-r{font-size:13px}
+#commentfb{display:none}
+#footer p{color:#aaa;font-size:12px}
+#mv-info .mvi-content h1{font-size:20px;line-height:28px;margin:0;margin-bottom:10px;display:initial;margin-right:10px}
+.movies-list-wrap .ml-title .nav-tabs li a:hover{color:#2f2f2f}
+.qtip-bootstrap{background:#323232!important;color:#333!important;xborder:1px solid #3b3b3b}
+.qtip .qtip-title{background:none;color:#0397d6!important}
+.jtip-quality{border-radius:2px;background:#505050}
+.jtip-top{background:#414141!important;color:#272727!important}
+#hidden_tip p{color:#303030}
+.block{color:#519dff}
+#bread .breadcrumb a{color:#fff}
+.player_nav{background:#2a2a2a}
+.player_nav ul.idTabs li{padding:12px;border-bottom:0}
+.player_nav .les-title{color:#aaa}
+#slider .slide-caption{background:rgba(30,30,30,0.9)!important}
+.f_title{font-size:12px;margin:0;padding:0;display:inline;font-weight:400;color:#ababab}
+.f_right{display:inline}
+.movies-list .ml-item .mli-info{font-size:14px;margin:0;font-weight:400;text-align:center;color:#fff;text-shadow:0 0 2px rgba(0,0,0,0.6)}
